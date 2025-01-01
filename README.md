@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewLILP
-- 👀 Educator who bridges teaching and modern technology with an in game design, software development and educational resources
+- 👀 I am an Educator who bridges teaching and modern technology. I have interested in game design, software development and educational resources.
 - 🌱 I’m currently learning software engineering and game design with unity
 - 💞️ I’m looking to collaborate on EdTech opportunities
 - 📫 Reach me through https://www.linkedin.com/in/andrew-leary-00529533/
